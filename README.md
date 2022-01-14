@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p0zzle
-- 👀 I’m interested in C, operative systems, AI.
-- 🌱 I’m currently learning C, and Python
+- 👀 I’m interested in C, operating systems, AI.
+- 🌱 I’m currently learning Web Development and C on the side.
 - 💞️ I’m looking to collaborate on probably nothing! As at the moment I'm currently working on tiny projects for myself, mostly to learn.
 - 📫 How to reach me ... Probably through e-mail, tho I doubt you'll have any reason to do it. leon.collazo.are@gmail.com
 
